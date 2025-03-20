@@ -1,9 +1,0 @@
----
-title: "Tutorial 3"
-format: html
-editor: visual
----
-
-## 
-
-This is the new tutorial 3
